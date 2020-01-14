@@ -1,13 +1,13 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: Konmer
+SEOTitle: Konmer的博客 | RaimbomSea
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: konmer@foxmail.com
+description: "Konmer的博客"
+keyword: "Konmer, Konmer的博客, rainbom sea, Konmer, Python blog"
+url: "http://Konmers.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/Konmers/Konmers.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -21,8 +21,8 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 # SNS settings | 社交网络设置
 facebook_username: rainbom.z
-github_username: RainbomSea
-zhihu_username: RainbomSea
+github_username: Konmer
+zhihu_username: Konmer
 csdn_username: qq_39268193
 
 
@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: a866f00709e418ffd35d9986e130ff7f01a3cba2    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
-  owner: RainbomSea    # github用户名
-  admin: RainbomSea
+  clientID: 2782fa1d3cd9cd79bbbb                            #生成的clientID
+  clientSecret: 147ddd6ac4c11f13aa964b077ff7950655b5dcbb   #生成的clientSecret
+  repo: Konmers.github.io    #仓库名称
+  owner: Konmer    # github用户名
+  admin: Konmer
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -91,16 +91,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·Konmer",
+        href: "http://Konmer.github.io"
     },{
-        title: "CSDN·RainbomSea",
+        title: "CSDN·Konmer",
         href: "https://blog.csdn.net/qq_39268193"
     },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
+        title: "知乎·Konmer",
+        href: "https://www.zhihu.com/people/Konmer"
     },{
-        title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        title: "GitBook·Konmer",
+        href: "https://legacy.gitbook.com/@Konmer"
     }
 ]
