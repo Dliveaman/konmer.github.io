@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 2782fa1d3cd9cd79bbbb                            #生成的clientID
-  clientSecret: 147ddd6ac4c11f13aa964b077ff7950655b5dcbb   #生成的clientSecret
-  repo: Konmers.github.io   #仓库名称
-  owner: Konmers    # github用户名
-  admin: Konmers
+  clientID: '2782fa1d3cd9cd79bbbb'                            #生成的clientID
+  clientSecret: '147ddd6ac4c11f13aa964b077ff7950655b5dcbb'   #生成的clientSecret
+  repo: 'Konmers.github.io'   #仓库名称
+  owner: 'Konmers'    # github用户名
+  admin: ['Konmers']
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
