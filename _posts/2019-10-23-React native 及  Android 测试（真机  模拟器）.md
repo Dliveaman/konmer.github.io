@@ -7,7 +7,7 @@ author:     Konmer
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - Blog
+    - React-native
 ---
 
 # React native 及  Android 测试（真机 / 模拟器）

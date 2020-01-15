@@ -7,7 +7,7 @@ author:     Konmer
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - Blog
+    - React-native
 ---
 
 # React native 开发报错

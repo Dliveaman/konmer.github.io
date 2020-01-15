@@ -7,7 +7,7 @@ author:     Konmer
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - Blog
+    - Github React-native
 ---
 
 # Github下载React-native 项目运行SDK报错
