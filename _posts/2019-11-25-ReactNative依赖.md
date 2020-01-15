@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      自定义博客域名
-subtitle:   给自己的博客绑定域名
+title:      React native 依赖
+subtitle:   React native 依赖
 date:       2019-11-25
-author:     RainbomSea
+author:     Konmer
 header-img: img/post-web.jpg
 catalog: true
 tags:
