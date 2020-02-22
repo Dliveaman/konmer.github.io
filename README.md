@@ -4,7 +4,7 @@
 
 ## 网站地址
 
-[RainbomSea.xyz](http://rainbomsea.xyz/)
+[Konmer.cn](https://xw.konmer.cn)
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
