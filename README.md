@@ -8,7 +8,7 @@
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
-![示例图片](http://www.konmer.cn:3000/uploads/cover.png)
+![示例图片](http://www.konmer.cn:3000/uploads/covers.jpg)
 
 ## 自己写的教程
 
