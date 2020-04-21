@@ -1,6 +1,6 @@
 # Site settings | 网站设置
-title: Konmer
-SEOTitle: Konmer的博客 | Konmer
+title: konmer
+SEOTitle: konmer的博客 | konmer
 header-img: img/home-bg-he.png
 email: konmer@foxmail.com
 description: "Konmer的博客"
@@ -92,7 +92,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub·Konmer",
-        href: "http://Konmer.github.io"
+        href: "http://Konmers.github.io"
     },{
         title: "CSDN·Konmer",
         href: "https://blog.csdn.net/qq_39268193"
@@ -101,6 +101,6 @@ friends: [
         href: "https://www.zhihu.com/people/Konmer"
     },{
         title: "GitBook·Konmer",
-        href: "https://legacy.gitbook.com/@Konmer"
+        href: "https://github.com/Konmers"
     }
 ]
