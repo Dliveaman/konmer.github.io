@@ -14,6 +14,7 @@ tags:
 # 最新 Android Studio 版本 及 JDK Gradle SDK 配置
 
 
+
 ## 1.JDK 
 
 ### 地址
@@ -26,19 +27,18 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 1. 默认安装到 本地 
 
-2. 安装成功之后 会有 `jdk` 和`jre` 两个文件夹
+2. 安装成功之后 会有 `jdk` 和`jre` 两个文件夹![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171555342.png)
 
-   [外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-S4Vxx15V-1608539335945)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221154900466.png)]
 
 
 
 ### 配置 
 
 `展示图`
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171606751.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDY2NjExNg==,size_16,color_FFFFFF,t_70)
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-AjWdSgKc-1608539335953)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221155327126.png)]
 
- 
+
 
 由于 JDK 安装在 系统盘，所以只有在 系统变量中新建才有用
 
@@ -61,19 +61,20 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
    变量值:   %JAVA_HOME%\jre\bin
    ```
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-jlAuWRSa-1608539335956)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221155917438.png)]
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171627736.png)
 
 
 ### 测试
 
 1. 管理员状态  `CMD`  输入  `java -version `
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-SmQAq0dF-1608539335960)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221160200431.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171637289.png)
+
 
 2. 管理员状态  `CMD`  输入  `javac -version `
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-4Y9MItwB-1608539335962)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221160246475.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171643644.png)
+
 
 
 
@@ -81,7 +82,8 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 打开 AS   ->   Settings -> Appearance & Behavior ->  System Settings  ->  Android SDK
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-MHnVtQuh-1608539335965)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221162541693.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171651631.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDY2NjExNg==,size_16,color_FFFFFF,t_70)
+
 
 下载完成即可
 
@@ -103,13 +105,15 @@ https://services.gradle.org/distributions/
 
 配置  Gradle本地 地址
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-XAeks5xB-1608539335967)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221161717390.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171707490.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDY2NjExNg==,size_16,color_FFFFFF,t_70)
+
 
 本地地址 一定加   `file:/` 
 
 选择的是 `.zip` 压缩包 ，不是文件夹
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-8zfqp0O3-1608539335968)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221161854843.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171713937.png)
+
 
 
 
@@ -119,7 +123,8 @@ AS 打开项目的  android 文件 ，AS自动生成 文件  `local.properties`
 
 RN项目本地运行 必须要！
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-CC9X8Egs-1608539335970)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221162248084.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171722852.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDY2NjExNg==,size_16,color_FFFFFF,t_70)
+
 
 
 
@@ -127,8 +132,11 @@ RN项目本地运行 必须要！
 
 ## RN 项目配置注意
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-GLu2B5Uu-1608539335971)(C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201221162813300.png)]
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201221171731706.png)
 
+
+
+[个人博客](https://xw.konmer.cn/)
 
 
 
